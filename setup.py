@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
 	name = 'walnut',
-	version = '0.1',
+	version = '0.2',
 	url = 'https://github.com/c0ding/walnut',
 	download_url = 'https://github.com/c0ding/walnut/archive/master.zip',
 	author = 'Martin Simon',
