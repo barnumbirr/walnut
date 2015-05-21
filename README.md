@@ -1,7 +1,7 @@
-<h1><img src="https://raw.githubusercontent.com/c0ding/walnut/master/doc/walnut.png" height=85 alt="walnut" title="walnut"> walnut</h1>
+<h1><img src="https://raw.githubusercontent.com/mrsmn/walnut/master/doc/walnut.png" height=85 alt="walnut" title="walnut"> walnut</h1>
 
 [![PyPi Version](http://img.shields.io/pypi/v/walnut.svg)](https://pypi.python.org/pypi/walnut/)   [![Downloads](http://img.shields.io/pypi/dm/walnut.svg)](https://pypi.python.org/pypi/walnut/)
-[![Code Health](https://landscape.io/github/c0ding/walnut/master/landscape.svg)](https://landscape.io/github/c0ding/walnut/master)
+[![Code Health](https://landscape.io/github/mrsmn/walnut/master/landscape.svg)](https://landscape.io/github/mrsmn/walnut/master)
 
 **walnut** is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the _/proc/cpuinfo_ file on LINUX based systems.
 
